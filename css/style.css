@@ -1,0 +1,26 @@
+body{
+ color:#fff;
+  background: #153243;
+}
+#info-box{
+  position: absolute;
+  padding: 30px;
+  width: 600px;
+  height: 300px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+li{
+  font-size: 25px;
+}
+
+#weather{
+  text-transform:capitalize;
+}
+#fTemp{
+  cursor: pointer;
+  color: #FF6663;
+}
