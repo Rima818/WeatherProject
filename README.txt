@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Kb818/pen/vJdBgv.
-
+Free Code Camp project created on CodePen.io. View pen here: https://codepen.io/Kb818/full/vJdBgv.
+Determines visitor's location and outputs local weather & temperature.
  
